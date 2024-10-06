@@ -7,7 +7,9 @@ Adapter to convert connect middleware to wintercg compaitable response/requests.
 
 ## Installation
 
-```npm install connect-to-web````
+```bash
+npm install connect-to-web
+```
 
 ## Acknowledgments
 

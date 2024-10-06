@@ -1,5 +1,11 @@
 # connect-to-web
 
+## 0.0.3
+
+### Patch Changes
+
+- fix install script
+
 ## 0.0.2
 
 ### Patch Changes
